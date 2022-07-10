@@ -1,7 +1,7 @@
 # Projeto cadastro de vinho PW III
 - Um pequeno e simples site criado em PHP,ultilizando Programação Orientada a Objetos (POO),
 
-![Captura de Tela (136)](https://user-images.githubusercontent.com/85001629/178113702-7cf35bee-0991-4e41-bf15-f47ddc460866.png)
+![Captura de Tela (147)](https://user-images.githubusercontent.com/85001629/178153605-81467092-89c0-407b-b81e-ef7afb8f9dd8.png)
 
 # 💼 Tecnologias utilizadas
 
